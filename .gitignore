@@ -1,0 +1,11 @@
+# Ignore secrets and junk
+.env
+**/.env
+**/*secret*
+**/node_modules/
+**/.git/
+archive/
+sources/
+*.xpi
+.bridge.log
+**/mcp-auth.json
