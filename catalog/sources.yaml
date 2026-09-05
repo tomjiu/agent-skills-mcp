@@ -213,6 +213,14 @@ skills:
     url: https://github.com/K-Dense-AI/scientific-agent-skills
     tags: [skills, science]
 
+  # ===== 闭源软件云技能打包（cloud-vendors/，逆向提取） =====
+  - name: Trae cloud skills (extracted)
+    url: https://github.com/tomjiu/agent-skills-mcp/tree/main/cloud-vendors/trae
+    tags: [skills, trae, bytedance, extracted, closed-source]
+  - name: WorkBuddy builtin skills (extracted)
+    url: https://github.com/tomjiu/agent-skills-mcp/tree/main/cloud-vendors/workbuddy
+    tags: [skills, workbuddy, tencent, extracted, closed-source]
+
 agent_ecosystem:
   - name: OpenCode
     url: https://github.com/anomalyco/opencode
